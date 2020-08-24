@@ -152,6 +152,7 @@ margin-top:100px;
     color:orangered;
     font-family: cursive;
     font-weight: bold;
+	text-shadow: none;
 
 }
 @keyframes changetext{
